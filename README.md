@@ -72,8 +72,7 @@ Además de moverte, puedes escribir estos comandos en cualquier momento:
 - **`load`** → Recupera la última partida guardada de este mismo modo de juego (2048 o Fibonacci).
 - **`end`** → Termina la partida en cualquier momento.
 
-> **Nota sobre `save`/`load`:** Las partidas se guardan según el tipo de juego (2048 o Fibonacci), no según el tamaño del tablero. Si guardas una partida y luego empiezas otra del mismo tipo pero con un tamaño de tablero distinto, al usar `save` se sobrescribirá el archivo guardado anteriormente. `load` no te dejará cargar una partida en un tablero de tamaño incompatible, pero la partida guardada previa se perderá igualmente si la sobrescribes.
-
+> **Nota sobre `save`/`load`:** Las partidas se guardan según el tipo de juego (2048 o Fibonacci), no según el tamaño del tablero. Si guardas una partida y luego empiezas otra del mismo tipo pero con un tamaño de tablero distinto, al usar `save` se sobrescribirá el archivo guardado anteriormente. 
 ## Modalidades de juego
 
 Al empezar, puedes elegir entre dos modos:
