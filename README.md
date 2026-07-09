@@ -17,7 +17,7 @@ Sigue estos pasos:
 
 1. Descarga o clona el proyecto en tu ordenador, de forma que tengas el archivo `main.py` en una carpeta.
 
-2. **Comprueba que tienes Python instalado.** Abre una terminal y escribe:
+2. Comprueba que tienes Python instalado. Abre una terminal y escribe:
    ```
    python --version
    ```
