@@ -27,7 +27,7 @@ Sigue estos pasos:
 
 3. Sitúate en la carpeta del proyecto con la terminal:
    ```
-   cd ruta/a/la/carpeta/del/proyecto
+   cd 2048-terminal
    ```
 
 4. Ejecuta el juego:
