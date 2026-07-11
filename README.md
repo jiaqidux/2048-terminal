@@ -1,7 +1,5 @@
 # 2048 en la terminal 
 
-## Descripción
-
 Este proyecto es una versión del clásico juego 2048 para jugar directamente en la terminal, sin necesidad de navegador ni interfaz gráfica. Está programado en Python, usando programación orientada a objetos (POO):
 
 Además del modo clásico, incluye una versión basada en la sucesión de Fibonacci, que se explicará con más detalle a continuación.
