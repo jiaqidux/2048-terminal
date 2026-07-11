@@ -34,11 +34,11 @@ Sigue estos pasos:
 
 4. Ejecuta el juego:
    ```
-   python juego.py
+   python main.py
    ```
    O, si en tu sistema hace falta especificar la versión:
    ```
-   python3 juego.py
+   python3 main.py
    ```
 
 5. Al arrancar, el juego te preguntará el tipo de partiday el tamaño del tablero. Escribe tu respuesta y pulsa Enter.
